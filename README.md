@@ -1,0 +1,1 @@
+Using Js constructors with prototype and inheritance by simply displayiong result in the console
